@@ -1,0 +1,96 @@
+{
+  "user_updated_data": {
+    "phone": "9867456545",
+    "newName": "Priyanka Sahu",
+    "billingAddress": "new billingAddress",
+    "country": "India",
+    "userName": "updateuser",
+    "password": "updateuser",
+    "userEmail": "priyanka_s+updateuser+@tekditechnologies.com",
+    "updatedUserEmail": "priyanka_s+updateuser1+@tekditechnologies.com",
+    "city":"Maharashtra",
+    "updatedUserName":"updateUserName",
+    "invalidemail":"priyanka@tekdi",
+    "emailForResetPassword": "priyanka_sresetPassword@mailinator.com",
+    "resetpassword": "priyanka",
+    "resetvpassword": "priyanka",
+    "invalidresetvpassword": "sayali@tekdi",
+    "superuseremail": "sayali+test110+@tekditechnologies.com"
+  },
+
+  "new_registeration": {
+    "email": "derivaz_and_ives",
+    "username": "derivaz",
+    "password": "derivaz&ives",
+    "mobilenumber": "8600595492",
+    "billingname": "sayali",
+    "billingaddress": "Pune",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "pincode": "411041",
+    "country": "India",
+    "reference":"reference from my friend",
+    "invalidMobile":"2"
+  },
+
+  "qa": {
+    "email": "derivaz_and_ives_qa@yopmail.com",
+    "username": "derivaz_and_ives_qa",
+    "password": "derivaz&ives"
+  },
+
+  "qaAdmin": {
+    "email": "priyanka_s+1@tekditechnologies.com",
+    "username": "priyanka_s1",
+    "password": "priyanka_s1"
+  },
+  "backendUser": {
+    "formname": "userForAutomation",
+    "formEmail": "userForAutomation@mailinator.com",
+    "whatappnumber":"9876545678",
+    "billName":"bill name",
+    "billAddress":"billing address",
+    "country":"India",
+    "state":"Maharashtra",
+    "city":"Pune",
+    "pin":"67676" 
+  },
+ 
+
+  "qaregisterpending": {
+    "email": "pendingregistration@mailinator.com",
+    "username": "pendingregistration",
+    "password": "pendingregistration",
+    "approvalPending":"Bidder Registration Submitted, Approval Pending."
+  },
+
+  "prod": {
+    "email": "derivaz_and_ives_prod@mailinator.com",
+    "username": "derivaz_and_ives_prod",
+    "password": "derivaz&ives"
+  },
+
+  "qabidder": {
+    "email": "priyanka_bidder",
+    "username": "priyanka_bidder",
+    "password": "abcd1234"
+  },
+  
+  "invalid": {
+    "username": "invalid_username",
+    "password": "invalid_password"
+  },
+
+"qabidderverificationpending": {
+    "username": "sayalis",
+    "password": "sayalisj"
+  },
+
+  "preview":{
+    "email": "derivaz_and_ives_preview@yopmail.com",
+    "username": "derivaz_and_ives_preview",
+    "password": "derivaz&ives"
+  }
+
+
+}

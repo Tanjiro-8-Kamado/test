@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "noEmit": false,
+    "types": ["jest", "cypress-file-upload", "cypress-iframe", "node", "cypress", "cypress-real-events","cypress-image-snapshot"],
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules", "./api/features/stepdefs/*", "**/*.feature", "**/*.features"],
+  "include": ["./node_modules/cypress", "./ui/**/*.ts"]
+}

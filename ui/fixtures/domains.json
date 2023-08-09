@@ -1,0 +1,33 @@
+{
+  "qa": {
+    "url": "https://qa.derivaz-ives.com"
+  },
+"qaBackend" : {
+    "url":"https://qa-api.derivaz-ives.com/administrator/index.php"
+},
+  "prod": {
+    "url": "https://www.derivaz-ives.com"
+  },
+
+  "mailinator": {
+    "url": "https://www.mailinator.com"
+  },
+
+  "preview":{
+    "url":"https://derivazpreview:xDc761HqZxJ5X68@preview.derivaz-ives.com"
+  },
+
+  "Previewbackend" : {
+    "url":"https://preview-api.derivaz-ives.com/administrator/index.php"
+},
+
+  "yopmail":{
+    "url": "https://yopmail.com"
+  },
+
+  "test": {
+    "url": "http://13.232.194.242:80"
+  }
+
+
+}
